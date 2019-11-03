@@ -1,2 +1,2 @@
 # socketclient
- 计网上机实验
+Socket Client with gui, Qt5/C++/QTcpSocket
